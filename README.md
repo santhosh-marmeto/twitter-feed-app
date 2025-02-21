@@ -4,7 +4,7 @@ This is a simple Twitter-like feed built with React and Tailwind CSS. The applic
 
 # Features
 
-Post Creation: Users can create and view posts.
+Post Creation: Users can view posts.
 
 Like System: Users can like and unlike posts, with likes stored in local storage.
 
