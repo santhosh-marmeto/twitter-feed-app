@@ -1,8 +1,8 @@
-Twitter Feed - React Project
+**Twitter Feed - React Project**
 
 This is a simple Twitter-like feed built with React and Tailwind CSS. The application allows users to view content, like posts, filter posts by tags, navigate between pages, and toggle between dark and light mode. It uses React Router for navigation, React Icons for icons, and local storage to persist likes
 
-Features
+# Features
 
 Post Creation: Users can create and view posts.
 
