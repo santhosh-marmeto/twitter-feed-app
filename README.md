@@ -1,4 +1,4 @@
-**Twitter Feed - React Project**
+# Twitter Feed - React Project
 
 This is a simple Twitter-like feed built with React and Tailwind CSS. The application allows users to view content, like posts, filter posts by tags, navigate between pages, and toggle between dark and light mode. It uses React Router for navigation, React Icons for icons, and local storage to persist likes
 
@@ -19,7 +19,7 @@ React Router: Navigation between different pages using react-router-dom.
 Icons: Uses React Icons for better UI.
 
 
-Technologies Used
+# Technologies Used
 
 React.js
 
@@ -35,33 +35,39 @@ useContext API
 
 
 
-Installation & Setup
+# Installation & Setup
 
-1. Clone the Repository
-2. Navigate to the Project Directory
+**1. Clone the Repository**  
+[git clone <repository-url>](https://github.com/santhosh-marmeto/twitter-feed-app)
+
+**2. Navigate to the Project Directory**  
 cd your-repo-name
-3. Install Dependencies
+
+**3. Install Dependencies**  
 npm install
-4. Start the Development Server
+
+**4. Start the Development Server**  
 npm run dev
 
 
-Usage
 
-Creating a Post: Users can type and submit a post.
+# Usage
 
-Liking a Post: Click the like button to toggle likes (stored in local storage).
+**Creating a Post:** Users can type and submit a post.
 
-Filtering by Tags: Click on a tag to filter posts by category.
+**Liking a Post:** Click the like button to toggle likes (stored in local storage).
 
-Pagination: Navigate through pages using next/previous buttons.
+**Filtering by Tags:** Click on a tag to filter posts by category.
 
-Dark/Light Mode: Toggle theme using the switch button.
+**Pagination:** Navigate through pages using next/previous buttons.
 
-Contributing
+**Dark/Light Mode:** Toggle theme using the switch button.
+
+
+# Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-License
+# License
 
 This project is licensed under the MIT License.
