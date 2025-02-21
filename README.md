@@ -53,7 +53,7 @@ npm run dev
 
 # Usage
 
-**Creating a Post:** Users can type and submit a post.
+**Creating a Post:** Users can view posts.
 
 **Liking a Post:** Click the like button to toggle likes (stored in local storage).
 
